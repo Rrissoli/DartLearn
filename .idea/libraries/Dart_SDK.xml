@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/async" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/cli" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/collection" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/convert" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/core" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/developer" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/ffi" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/html" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/indexed_db" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/io" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/isolate" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/js" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/js_util" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/math" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/mirrors" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/svg" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/typed_data" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/web_audio" />
+      <root url="file://$PROJECT_DIR$/../sdkDoDart/lib/web_gl" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

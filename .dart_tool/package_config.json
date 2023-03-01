@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "lints",
+      "rootUri": "file:///C:/Users/Usuario/AppData/Local/Pub/Cache/hosted/pub.dev/lints-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "projeto_inicial",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    }
+  ],
+  "generated": "2023-03-01T20:04:20.233912Z",
+  "generator": "pub",
+  "generatorVersion": "2.19.3"
+}
