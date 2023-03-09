@@ -61,7 +61,7 @@ class Fruta extends Alimento implements Bolo{
 
   @override
   void assar() {
-  print("colocar no forno")
+  print("colocar no forno");
   }
 
   @override
